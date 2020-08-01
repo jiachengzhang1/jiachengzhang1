@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
   - Email: jiachengzhang1@email.arizona.edu
   - Website: www.jzhangdeveloper.com
-- ⚡ Fun fact: If you could fold a piece of paper 42 times, the thickness would be enough to reach the moon 🚀🌖
+- ⚡ Fun fact: You know, another way to get to Mars is to fold a paper 51 times 🚀🚀
 
 <!--
 **jiachengzhang1/jiachengzhang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
