@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-<body>
-<iframe src="https://spacexandmars.com/"></iframe>
-  </body>
+- 🔭 I’m currently a computer science graduate student at the University of Arizona 🐻⬇️
+- 🌱 I’m currently learning Machine Learning, Cloud Computing and Web Development
+- 👯 I’m looking to collaborate on building websites that solve problems
+- 💬 Ask me about anything?! 😂
+- 📫 How to reach me: 
+  - Email: jiachengzhang1@email.arizona.edu
+  - Website: jzhangdeveloper.com
+- ⚡ Fun fact: If you could fold a piece of paper 42 times, the thickness would be enough to reach the moon 🚀🌖
 
 <!--
 **jiachengzhang1/jiachengzhang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
