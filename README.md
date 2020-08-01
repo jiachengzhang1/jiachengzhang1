@@ -6,7 +6,7 @@
 - 💬 Ask me about anything?! 😂
 - 📫 How to reach me: 
   - Email: jiachengzhang1@email.arizona.edu
-  - Website: jzhangdeveloper.com
+  - Website: www.jzhangdeveloper.com
 - ⚡ Fun fact: If you could fold a piece of paper 42 times, the thickness would be enough to reach the moon 🚀🌖
 
 <!--
