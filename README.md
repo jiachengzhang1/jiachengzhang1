@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a graduate computer science student at the University of Arizona 🐻⬇️
-- 🌱 I’m currently learning Machine Learning, Cloud Computing and Web Development
-- 👯 I’m looking to collaborate on building websites that solve complex problems
+- 🌱 My interests are Machine Learning, Cloud Computing(AWS) and Web Development
+- 👯 I’m looking to collaborate on building websites that improve people's life qualities
 - 💬 Ask me about anything?! 😂
 - 📫 How to reach me: 
   - Email: jiachengzhang1@email.arizona.edu
